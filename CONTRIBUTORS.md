@@ -6,3 +6,4 @@
 - Erika Wunderli-Vallai [(@erikawunderli)](https://github.com/ErikaWunderli)
 - Joris Mansart [(@MisterJack49)](https://github.com/MisterJack49)
 - Jayam Shah [(@jshah59)](https://github.com/jshah59)
+- Winnie Tam [(@bubble29)](https://github.com/bubble29)
